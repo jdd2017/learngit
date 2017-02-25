@@ -1,1 +1,2 @@
 AAAAAA
+更新了这一行 使用git checkout MyBranch 切换到MyBranch分支  ... 使用git push origin MyBranch更新到远程的MyBranch分支
